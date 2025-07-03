@@ -1,4 +1,3 @@
-# Action Repo
 
 # Test pull request testing
 
