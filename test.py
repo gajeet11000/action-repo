@@ -1,2 +1,3 @@
 print("This is cool")
-print("baka")
+print("hii mom")
+
