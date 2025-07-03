@@ -1,3 +1,2 @@
-print("This is cool")
+print("hii Cookie")
 print("hii mom")
-##hava
